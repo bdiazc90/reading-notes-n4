@@ -1,13 +1,5 @@
-# Notas de Lectura
-Para mis cursos de Enter Tech School
+# Lectura clase 01
 
-## Autor
-Bruno Díaz
+## Pregunta 1: ¿Qué es Markdown?
 
-## Curso
-Code 102
-
-### Mis series favoritas
-- The Office
-- The Wire
-- Breaking Bad
+Es un lenguaje de marcado ligero.
